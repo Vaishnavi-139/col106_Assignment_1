@@ -1,6 +1,6 @@
 import java.util.EmptyStackException;
 
-public class DemoStack extends AbstractDemoStack {
+public class DemoStack {
     Character[] base;
     int size = 0;
 

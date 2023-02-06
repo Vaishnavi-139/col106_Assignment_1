@@ -1,5 +1,5 @@
 
-public class ParenthesisMatching extends AbstractParenthesisMatching {
+public class ParenthesisMatching {
     public Character compliment(Character o){
         if (o == ')'){
             return ('(');
